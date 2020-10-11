@@ -153,7 +153,7 @@ background-size: cover;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    display: block;
+    display: none;
     flex-direction: column;
 
 }
